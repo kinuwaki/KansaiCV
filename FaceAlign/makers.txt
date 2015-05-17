@@ -1,0 +1,22 @@
+There are 20 manually placed points on each of your 1521 images.
+The markup scheme is as follows:
+0 = right eye pupil
+1 = left eye pupil
+2 = right mouth corner
+3 = left mouth corner
+4 = outer end of right eye brow
+5 = inner end of right eye brow
+6 = inner end of left eye brow
+7 = outer end of left eye brow
+8 = right temple
+9 = outer corner of right eye
+10 = inner corner of right eye
+11 = inner corner of left eye
+12 = outer corner of left eye
+13 = left temple
+14 = tip of nose
+15 = right nostril
+16 = left nostril
+17 = centre point on outer edge of upper lip
+18 = centre point on outer edge of lower lip
+19 = tip of chin
