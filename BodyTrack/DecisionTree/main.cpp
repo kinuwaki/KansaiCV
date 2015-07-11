@@ -3,19 +3,19 @@
 using namespace std;
 
 enum PROCESS_MODE{
-	LEBELING, // making correct data
+	LABELING, // making correct data
 	LEARNING  // constructing decision tree 
 };
 
 void main()
 {
-	PROCESS_MODE mode = LEBELING;
+    PROCESS_MODE mode = LEARNING;
 	switch (mode){
-	case LEBELING:
+    case LABELING:
 		ProcessLabeling();
 		break;
 	case LEARNING:
-//		ProcessLearning();
+        ProcessLearning();
 		break;
 	}
 }

@@ -32,7 +32,7 @@
     <ClInclude Include="labeling.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="leaning.h">
+    <ClInclude Include="learning.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
